@@ -1,4 +1,2 @@
-spring:
-  database:
-    url:http://127.0.0.1:3306
+spring.database.uri=http://127.0.0.1:3306
 
